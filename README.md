@@ -15,4 +15,5 @@ La sécurité sur les routes de l'API n'est pas fonctionnelle.
 
 # Database
 Un script mysql est fournis à la racine du projet.
-Veuillez exécuté ce script pour pouvoir faire fonctionner cette API 
+Veuillez exécuté ce script pour pouvoir faire fonctionner cette API.
+Le script se nomme "apinautilus.sql".
