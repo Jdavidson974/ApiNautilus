@@ -13,6 +13,6 @@ Cette API basique délivre de la data pour l'application angular demandé.
 # Sécurité
 La sécurité sur les routes de l'API n'est pas fonctionnelle.
 
-# DATABASE
+# Database
 Un script mysql est fournis à la racine du projet.
 Veuillez exécuté ce script pour pouvoir faire fonctionner cette API 
